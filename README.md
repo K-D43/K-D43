@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on Amazon
 - 📫 How to reach me kumawatdeependra43@gmail.com
-- MyPortfolio : https://lambent-froyo-c16706.netlify.app/
-- Resume Link : https://drive.google.com/file/d/1tSRHpZVWtfuxAkMx-tRALYQ-wfHV3T3f/view?usp=share_link
+- MyPortfolio : https://deependrakumawat.netlify.app/
+- Resume Link : https://drive.google.com/file/d/1nPWFk76r-X5X-F988aWbopBallo3a8jF/view?usp=sharing
 
 <!---
 K-D43/K-D43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
